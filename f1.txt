@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 Partie 1
+=======
+Partie 1
+partie 2
+>>>>>>> b1
